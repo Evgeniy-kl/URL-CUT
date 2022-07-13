@@ -4,7 +4,7 @@
 3) localhost:8000/api/v1/short to create short url by jwt token
 4) localhost:8000/api/v1/short_my_urls to get all generated user's urls 
 
-5) localhost:8000/<generated-key>/ use to redirect to target resource
+5) localhost:8000/GENERATED_KEY/ use to redirect to target resource
 
 
 to run this application use:
